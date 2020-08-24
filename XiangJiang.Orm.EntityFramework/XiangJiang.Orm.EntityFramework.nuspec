@@ -16,6 +16,7 @@
         <dependencies>
             <group targetFramework=".NETFramework4.6.1">
                 <dependency id="XiangJiang" version="1.0.3" />
+                <dependency id="XiangJiang.Orm.Abstractions" version="1.0.0" />
                 <dependency id="EntityFramework" version="6.4.4" />
             </group>
         </dependencies>
