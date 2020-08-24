@@ -1,0 +1,1 @@
+nuget pack XiangJiang.Orm.EntityFramework\XiangJiang.Orm.EntityFramework.csproj -Prop Configuration=Release -IncludeReferencedProjects
